@@ -8,3 +8,4 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2021
 - 1
 - 2
+- 3
